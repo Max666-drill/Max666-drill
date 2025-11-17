@@ -1,4 +1,6 @@
-![Palace Bridge, Saint Petersburg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Palace_Bridge_SPB_%282%29.jpg/1200px-Palace_Bridge_SPB_%282%29.jpg)
+<p align="center">
+  <img src="https://media1.tenor.com/m/-ebvo7ezT2QAAAAd/money-counting-machine.gif" alt="Money counting machine" />
+</p>
 
 ---
 
@@ -9,10 +11,10 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/elizarovmax">
-    <img src="https://img.shields.io/badge/Telegram-@elizarovmax-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://t.me/Eliz913">
+    <img src="https://img.shields.io/badge/TELEGRAM-@ELIZ913-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Saint–Petersburg-1f425f?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOCATION-SAINT--PETERSBURG-1f425f?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
 ---
@@ -20,23 +22,22 @@
 ## Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=elizarovmax&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Max666-drill&theme=github_dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=elizarovmax&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Max666-drill&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## Contacts
 
-- Telegram: <a href="https://t.me/elizarovmax">@Eliz913</a>
+- Telegram: <a href="https://t.me/Eliz913">@Eliz913</a>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="cat coding" width="320" />
+  <!-- сюда поставь свою любимую гифку с челом в шляпе -->
+  <img src="PLANE_GIF_LINK" alt="Reaction gif" width="320" />
 </p>
 
 ---
