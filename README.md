@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/-ebvo7ezT2QAAAAd/money-counting-machine.gif" alt="Money counting machine" />
+  <img src="https://media.tenor.com/56YMc63ICdEAAAAM/money-kayy.gif" alt="Money counting machine" />
 </p>
+
 
 ---
 
@@ -36,8 +37,8 @@
 - Telegram: <a href="https://t.me/Eliz913">@Eliz913</a>
 
 <p align="center">
-  <!-- сюда поставь свою любимую гифку с челом в шляпе -->
-  <img src="PLANE_GIF_LINK" alt="Reaction gif" width="320" />
+  <img src="https://media1.tenor.com/m/DyyScI26uv4AAAAd/nodding-the-mad-adventures-of-rabbi-jacob.gif"
+       alt="Nodding The Mad Adventures Of Rabbi Jacob" width="320" />
 </p>
 
 ---
